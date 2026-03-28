@@ -528,4 +528,3 @@ powershell -ExecutionPolicy Bypass -File .\run_dpi.ps1 `
   -RulesFile blocking_rules_demo.txt
 
 
-If you want, I can also give a second one-page README version for recruiters while keeping this as the full technical README.If you want, I can also give a second one-page README version for recruiters while keeping this as the full technical README.
