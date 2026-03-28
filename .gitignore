@@ -1,0 +1,14 @@
+# Build outputs
+build/
+build-debug/
+build-debug-mingw/
+build-debug-ninja/
+
+# Runtime artifacts
+*.pcap
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/

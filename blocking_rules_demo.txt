@@ -1,0 +1,11 @@
+[BLOCKED_IPS]
+
+[BLOCKED_APPS]
+DNS
+
+[BLOCKED_DOMAINS]
+*.google.com
+*.youtube.com
+
+[BLOCKED_PORTS]
+443
